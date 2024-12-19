@@ -1,6 +1,6 @@
 <h1>Hi, I'm Dan! Check out my projects!
 
-<h2>Cybersecurity Projects:</h2>
+<h2>Cybersecurity Projects</h2>
 
 - <b>Azure Cloud Projects</b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/danchristopher02/honeynet/blob/main/README.md)
