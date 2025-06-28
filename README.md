@@ -9,6 +9,7 @@
 <h2>Data Projects</h2>
 
 - [Using PostgreSQL to Find Insights on DVD Rentals](https://github.com/danchristopher02/dvdsql/blob/main/README.md)
+- [Building a Data Warehouse and ETL Pipeline](https://github.com/danchristopher02/sql-data-warehouse-project/tree/main)
 
 <h2>Connect with me:</h2>
 
