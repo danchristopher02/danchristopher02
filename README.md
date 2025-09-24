@@ -4,6 +4,9 @@
 
 - <b>Azure Cloud Projects</b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/danchristopher02/honeynet/blob/main/README.md)
+ 
+- <b>Vulnerability Management</b>
+  - [Vulnerability Management Program Implementation](https://github.com/danchristopher02/vulnerability-management-project)
 
 
 <h2>Data Projects</h2>
