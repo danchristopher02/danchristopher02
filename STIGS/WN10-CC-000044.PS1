@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    This PowerShell script ensures that the maximum size of the Windows Application event log is at least 32768 KB (32 MB).
+    Disabling this UI prevents non-administrators from modifying Internet Connection Sharing (ICS) settings, which helps reduce attack surface on Windows 10 endpoints
 
 .NOTES
     Author          : Daniel Christopher
@@ -20,7 +20,7 @@
     PowerShell Ver. : 
 
 .USAGE
-    Open Powershell and run script.
+    Open PowerShell and run script.
     Example syntax:
     PS C:\> .\__remediation_template(STIG-ID-WN10-CC-000044).ps1 
 #>
