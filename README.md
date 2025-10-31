@@ -2,7 +2,7 @@
 
 <h2>AI Projects</h2>
 
-- [AI SOC Agent](https://github.com/danchristopher02/honeynet/blob/main/README.md)
+- [AI SOC Agent](https://github.com/danchristopher02/Agentic-AI-SOC-Analyst)
 
 <h2>Cybersecurity Projects</h2>
 
