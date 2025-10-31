@@ -1,5 +1,9 @@
 <h1>Hi, I'm Dan! Check out my projects!
 
+<h2>AI Projects</h2>
+
+- [AI SOC Agent](https://github.com/danchristopher02/honeynet/blob/main/README.md)
+
 <h2>Cybersecurity Projects</h2>
 
 - <b>Azure Cloud Projects</b>
